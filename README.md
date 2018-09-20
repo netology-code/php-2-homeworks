@@ -36,4 +36,4 @@
 
 ## Блок 5. Обзор фреймворков
 
-5.1. Паттерн MVC.
+5.1. [Паттерн MVC.](https://github.com/netology-code/php-homeworks/tree/master/twig)
